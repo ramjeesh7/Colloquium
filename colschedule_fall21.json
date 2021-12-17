@@ -1,0 +1,43 @@
+[
+{ 
+    "Date": "Monday Sept 20, 2021 12:00 pm",
+    "Speaker": " Paula Mullins ",
+    "Title": "<a href = \"colloquium/presentations/COVID-19-Paula-Mullins-fall21.pdf\">Will the COVID-19 pandemic ever be over? Do mathematicians have the answer?</a>"
+},
+{ 
+    "Date": "Monday Sept 27, 2021 12:00 pm",
+    "Speaker": "Marvin McClendon",
+    "Title": "Stochastic Mechanics" 
+ },
+{ 
+    "Date": "Monday Oct 11, 2021 12:00 pm",
+    "Speaker": "Steven Benzel ",
+    "Title": "<a href=\"colloquium/presentations/Algorithms_for_Unsupervised_Learning-Steven-Benzel-fall21.pdf \" >Algorithms for Unsupervised Learning </a> " 
+},
+{ 
+    "Date": "Monday Oct 18, 2021 12:00 pm",
+    "Speaker": "Selcuk Koyuncu ",
+    "Title": "A New AI-Powered Teaching Assistant App in Mathematics" 
+},
+{ 
+    "Date": "Monday Oct 25, 2021 12:00 pm",
+    "Speaker": " Clayton Kitchings ",
+    "Title": "<a href=\"colloquium/presentations/GradescopePresentationKitchings25OCT2021.pdf\">An Introduction to Gradescope: Making Grading More Manageable </a> <a href=\"http://tiny.cc/m2ukuz\">( Recording Link) </a>"
+},
+{ 
+    "Date": "Monday, Nov 1, 2021 12:00 pm",
+    "Speaker": "Anilkumar Devarapu ",
+    "Title": "Deterministic and Stochastic Modeling for Biochemical Reaction Networks" 
+},
+{ 
+    "Date": "Monday Nov 8, 2021 12:00 pm",
+    "Speaker": "Daniel Vaccaro ",
+    "Title": "Mayan Mathematical Systems" 
+},
+    { 
+    "Date": "Monday Dec 6, 2021 12:00 pm",
+    "Speaker": "Valeria Carazas ",
+    "Title": "An Emotive Game Theoretic Analogue of the Traffic Problem" 
+}
+
+]

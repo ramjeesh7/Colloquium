@@ -1,0 +1,146 @@
+[
+     ["Monday April 26, 2021",
+      "<a href ='https://amte.net/content/2020-excellence-advocacy-award-dorothy-y-white#:~:text=White%20is%20a%20professor%20of,at%20the%20University%20of%20Georgia.&text=She%20also%20provides%20professional%20development,%2C%20state%2C%20and%20national%20levels'>Dr. Dorothy Y. White</a>",
+      "University of Georgia",
+      "Preservice Teachers’ Noticing of Middle School Students’ Mathematical Strengths",
+      "Mathematics teacher educators (MTEs) design methods courses to “provide candidates with tools and frameworks to support a more asset- and resource-based instructional approach focused on students’ strengths in learning” (AMTE, 2017, p. 35). Through a strength-based orientation, MTEs can support prospective teachers (PSTs) ability to view all students as doers of mathematics, thereby recognizing that all students have mathematical strengths. Fostering PSTs asset-based orientations will require MTEs to examine how PSTs understand and notice mathematical strengths. To do so, I draw upon the research on teacher noticing aligned with Sherin’s (2001) notion of professional vision as the ability to notice and interpret significant features of classroom interactions. In this session, I present preliminary finding from a cross-site study conducted with two cohorts of PSTs enrolled in different teacher preparation programs. More specifically, I will describe the key activities and design of the research project, engage the audience in a brief task, and share the types of strengths PSTs noticed while working with middle school students. I argue that strength-based orientations can help PSTs develop more robust orientations about what it means to do mathematics and may disrupt and overcome their culturally-learned deficit orientations about students."
+     ],
+     ["Monday April 19, 2021",
+      "Dr. Phong Luu",
+      "University of North Georgia",
+      "Building Homework Questions of Applied Problems Using the R Programming Language",
+      "In statistics courses, computational skills can be acquired through practicing assigned formulae with simple examples. However, mastering data interpretation skills generally involves doing analyses of practical applications which often contain a big set of data. This presentation will outline the steps for creating homework questions of applied problems using the R programming language. Each problem is accompanied with a solving procedure that handles massive calculations and exports numerical and graphical reports. Students will use statistical techniques they learn to analyze these reports and answer the inferential questions. This can help students apply statistics to their fields of study."
+     ],
+     [
+         "Monday, April 12, 2021",
+         "Dr. Beata Hebda",
+         "University of North Georgia",
+         "Discussion in Online Math Classes, What Works and What Doesn't",
+         "In this talk, I will try to answer a few questions regarding discussions in online math classes, for example: <ol><li> What is the role of a discussion in online math classes? <li> How can we define a meaningful discussion?<li> How can we create discussion questions that lead to a meaningful discussion? <li> How should we, instructors, participate in a discussion? <li> How can we evaluate a student discussion? <li> Is it possible to have a meaningful discussion in online math classes at UNG? </ol> In addition, I will provide some statistical analysis based on my and my colleague’s current online classes."
+     ],
+     [
+         "Monday April 5, 2021",
+         "Dr. Bikash Das",
+         "University of North Georgia",
+         "Topologies on the Ring of Field Valued Measurable Functions",
+         "Let (X, &Ascr;) stand for a nonempty set X equipped with a &sigma;-algebra &Ascr; over X. The set of all real-valued &Ascr;-measurable functions on X forms a commutative lattice ordered ring with unity if the relevant operations are defined point wise. My talk will focus on the so-called m-topology on this ring  &Mscr;(X, &Ascr;) and its measure-theoretic generalization. Important topological properties including first countability and connectedness will be discussed."
+     ],
+     ["Monday March 22, 2021",
+      "Dr. Kashi Neupane",
+      "University of North Georgia",
+      "Long-Term Secure Deniable Group Key Establishment",
+      "In this paper we present a long-term secure deniable group key establishment protocol. Long-term security provides resistance against an adversary, even if some underlying hardness assumptions become invalid later, after completion of the protocol. Deniability feature of a group key establishment protocol allows each participant to join a protocol session and authenticate a message for the other group members, but the receiver(s) cannot convince a third party that such involvement of the group members in the process ever took place. </p><p> The protocol presented here is a long-term secure deniable group key establishment protocol in the random oracle model which remains secure if either a Computational Bilinear Diffie Hellman problem is hard or a server, who shares a symmetric key with each user, is uncorrupted. The technical tools used for the protocol are ring signature, multiparty key encapsulation, and message authentication code. </p> <p> <b> Presentation Slides </b> </p>"
+     ],
+      [
+         "Monday March 15, 2021",
+         "Dr. Irfan Bagci",
+         "University of North Georgia",
+         "On Whittaker Modules for Lie Superalgebras",
+         "B. Kostant defined Whittaker modules for finite dimensional complex semisimple Lie algebras. Since then, a number of others have further developed the idea of Whittaker modules for Lie algebras. Whittaker modules for Lie superalgebras were defined by Bagci, Christodoulopoulou, and Weisner. Unlike the Lie algebra setting, simple finite dimensional modules for a finite dimensional nilpotent Lie superalgebra are not always one dimensional. This creates an additional challenge for producing Lie algebra results in the Lie superalgebra setting. For this reason, we restrict to basic classical Lie superalgebras of type I. Recently, we have given a description of simple Whittaker modules for basic classical Lie superalgebras of type I. In this talk we will discuss the simple modules and a description of these modules for type I simple Lie superalgebras. "
+     ],
+     [
+         "Monday March 8, 2021",
+         "Dr. Thinh Kieu",
+         "University of North Georgia",
+         "Weak Solution for Generalized Non-Darcy Flow",
+         "This paper focuses on the generalized Forchheimer flows of isentropic gas in a porous medium, described by a system of two nonlinear degenerate partial differential equations of first order. We prove the existence and uniqueness of the Dirichlet problem for the stationary problem. The technique of semi-discretization in time is used to prove the existence for the time-dependent problem."
+     ],
+     [
+         "Monday March 1, 2021",
+         "Dr. Selcuk Koyuncu",
+         "University of North Georgia",
+         "A Note on Multilevel Toeplitz Matrices",
+         "Chien, Liu, Nakazato and Tam proved that all n &times; n classical Toeplitz matrices (one-level Toeplitz matrices) are unitarily similar to complex symmetric matrices via two types of unitary matrices and the type of the unitary matrices only depends on the parity of n. In this paper we extend their result to multilevel Toeplitz matrices that any multilevel Toeplitz matrix is unitarily similar to a complex symmetric matrix. We provide a method to construct the unitary matrices that uniformly turn any multilevel Toeplitz matrix to a complex symmetric matrix by taking tensor products of these two types of unitary matrices for one-level Toeplitz matrices according to the parity of each level of the multilevel Toeplitz matrices. In addition, we introduce a class of complex symmetric matrices that are unitarily similar to some p-level Toeplitz matrices."
+     ],
+      [
+        "Monday Feb 22, 2021",	
+        "Dr. Opal Graham",	
+        "University of North Georgia",
+        "Rigidity of Intermingled Point and Sphere Configurations",
+        "The rigidity of collections of points and the rigidity of collections of circles in the extended complex plane is proven by Beardon and Minda using a maximal amount of conformal invariant information. Crane and Short generalize this work to collections of points and collections of spheres in higher dimensions. Both use a notion of the cross-ratio for 4-tuples of points, while for circles and spheres, the inversive distance between pairs is used. When a collection involves intermingled points and spheres, these conformal invariants can no longer be used. Working in Lorentz space, as Crane and Short do, we develop a notion of an invariant known as the Lorentz ratio, used as a conformal invariant between a point and two spheres. The Lorentz setting allows for an understanding of the correspondences between several geometries, and here, the rigidity of intermingled points and spheres of R&#770;<sup>n</sup> can be seen as part of the more general statement of the rigidity of intermingled points, ideal points, and hyperplanes of hyperbolic (n+1)-space. This rigidity statement is accomplished via the new conformal invariant."
+     ],
+     [
+        "Monday Feb 15, 2021",
+        "Dr. John H. Bergschneider",
+        "University of North Georgia",
+        "Classification of Trivalent 2-Stratifolds with Finite or Abelian Group",
+        "A 2-stratifold is locally modeled on a 2-dimensional space where n-sheets meet. Unlike 2-manifolds, 2-stratifolds are not determined by their fundamental group and a complete list of 2-stratifold groups is unknown. To further understand these groups, we determine which finite groups and which abelian groups are the fundamental group of a 2-stratifold. A powerful tool for studying 2-stratifolds is the associated labelled bicolored graph. This graph essentially determines the homeomophism type. A classification of all labelled graphs that represent 1-connected trivalent 2-stratifold had been previously obtained by  Gomez-Larranaga, Gonzalez-Acuna, and Heil. We extend this classification to labelled graphs that represent trivalent 2-stratifold with finite fundamental group or abelian fundamental group."
+    ],	
+    [
+        "Ramjee Sharma", 
+        "University of North Georgia",  
+        "Monday, Feb 10, 2020", 
+        "Developing Online Math Course Materials Using HTML, JavaScript and Sagemath",
+        "In this talk I will show how to create interactive and responsive math web pages using HTML, JavaScript, SageMath, Python, MathJax and JSXGraph. These web pages will produce active reading pages, practice problems, answer checkers and graphical animations using math objects written in JavaScript and Python. The web pages can be used in the class rooms for teaching purpose, or can be uploaded in D2L and Shared Class Files for online assignments. For lower level courses these resources can be used to generate practice problems and increase student online engagement. For higher level courses, these resources can be used for modeling and numerical simulations. This work is part of my effort to produce cost free online course materials for the students. No prior knowledge of programming in JavaScript or python is required."
+    ], 
+    [
+        "Daniel Vaccaro", 
+        "University of North Georgia",  
+        "Monday, Dec 2, 2019", 
+        "Disability Awareness and Possible Learning Techniques for Students in the College Math Classroom",
+        "This is a talk about how to teach in the multi-sensory world. It also gives the instructors an idea of how to adjust learning by using other ways of learning to students with learning issues. Mainly addressing dyscalculia (the dyslexia of numbers) and ADHD."
+    ], 
+
+    [
+        "Thinh Kieu",
+        "University of North Georgia",
+        "Monday, Nov 18, 2019",
+        "On the Existence of a Solution for Non-Darcy Flows in Porous Media",
+        "This paper is focused on the generalized Forchheimer flows for slightly compressible fluids, described as a system of two nonlinear degenerating partial differential equations of first order. The technique of semidiscretization in time is used to prove the existence of solution for the problem"
+    ],
+
+    [
+        "Danny Lau",
+        "University of North Georgia",
+        "Monday, Nov 11, 2019",
+        "Solve Buffon's Needle Problem Using Freshman Mathematics and Simulation technique",
+        "We will explore the analytic solution to Buffon's Needle Problem using some basic math concepts from trigonometry and calculus.  In addition, we will discuss a simulation approach to approximate the solution.  We will work on another related example on \"Waiting Time\" if time permits."
+    ],
+
+    [
+        "Ramjee Sharma (University of North Georgia) ",
+        "and Kedar Nepal (Mercer University)",
+        "Monday, October 28, 2019 ",
+        "How Do Students in College Mathematics Courses Justify their Self-Assessment Behaviors?",
+        "Research shows that accurate self-assessment (calibration accuracy) is linked to better or efficient study habits (Horgan, 1990), and also to higher academic achievement (Butler and Winne, 1995). We used Moore and Healy's (2008) framework to design a study and collected data on students' self-assessment behavior from various college mathematics courses. We asked students to guess their scores and then to justify their expected scores in quizzes and selected problems in exams after they completed them. Audio-recorded interviews were conducted with a small purposeful sample of students. The students were asked to explain their perceived reasons for their self-assessment behaviors. We will present how top and bottom performers (and those in between) self-assessed their performances in quizzes and exams. We will also present various categories of student self-assessment behaviors that we identified from our qualitative data."
+    ],
+
+    [
+        "Hashim Saber",
+        "University of North Georgia",
+        "Monday, October 21, 2019",
+        "A 3D Surface Modeling of the Left Ventricle of the Heart",
+        "The surgical treatment of mitral valve disease has dramatically improved with the recent development of repair techniques that avoid valve replacement with artificial valve. One of the barriers to developing accurate models of the mitral valve is the lack of temporal and spatial resolution of contemporary imaging techniques (Echocardiography and fluoroscopy methods provide two-dimensional images). In an effort to improve upon these methods, researchers have incorporated a technique called 3D Sonomicrometry which has greater temporal resolution (200 images/second) and is capable of measuring distances accurate to 0.02 millimeters.<br> In this talk I will explain how to produce wireframe images (model) of the left ventricle and mitral valve using Sonomicrometry distance data. I will also discuss how to construct a three-dimensional surface model that is based on three dimensional (3D) Sonomicrometry data."
+    ],
+
+    [
+        "Clayton Kitchings",
+        "University of North Georgia",
+        "Monday, October 14, 2019",
+        "Teaching with Transparency",
+        "There are numerous streaming videos available in 2019 on myriads of topics including mathematical topics. Students use mobile devices to stream video content on a regular basis. How can mathematics instructors leverage students' access to (and affection for) streaming video to support their acquisition and mastery of mathematical content? In this presentation we will discuss ways mathematics instructors can expand their digital reach to students by creating mathematics videos. We will focus on using Smart Notebook and Camtasia as primary tools for creating these videos. We will demonstrate how to use Camtasia to create the video and how to upload it to D2L, where D2L/Kaltura will provide its best attempt to close-caption the video for you. Various peripheral hardware will also be discussed including audio interfaces and tablets along with price ranges for such items. Time permitting, participants will see how it is possible to use Skype as a \"virtual office hour\" for students who cannot make your scheduled office hours but need quick assistance."
+    ],
+		
+    [
+        "Jennifer Williford, Gina Reed, Heather Howington, and Patricia Fried",
+        "University of North Georgia",
+        "Monday, October 7, 2019",
+        "Teaching with Transparency"
+    ],
+
+    [
+        "Gregory Bard", 
+        "University of Wisconsin-Stout",
+        "Tuesday, 24 September 2019",
+        "Tricks, Benefits, and Pitfalls of Teaching Undergraduate Mathematics with Computer-Algebra Software",
+        "In this talk I will give an overview on how to use the free and open-source Computer-Algebra system Sage. While undergraduate research in mathematics will be occasionally mentioned, the talk focuses on teaching undergraduate courses, such as Calculus i, ii, & iii, Linear Algebra, Discrete Mathematics, Differential Equations, Abstract Algebra, and Cryptography. The emphasis will be on classroom-ready examples."
+    ],
+
+    [
+        "Peter Ahumada",
+        "University of North Georgia",
+        "Monday, September 9, 2019",
+        "The Mathematics of Linguistic Philosophy",
+        "A language about the world has an interesting structure and can be expressed by a partial function from a power set into itself.  The presence of a sentence and the truth of a sentence can be formalized in terms of sets.  Relationships between them can be examined.  Of considerable importance is the factical relationship which holds when the presence of the sentence implies the truth of the sentence.  It is also important to consider collections of sentences.  Oddly, it is important to consider collections of sentences each of which have a part that is unknown.  However, you do not need to know what you are saying in order to know you are saying something true!  So, these collections unravel various perplexities found in Kripke's Naming and Necessity and elsewhere in linguistic philosophy."
+    ]
+]
